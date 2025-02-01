@@ -1,3 +1,8 @@
+## E-commerce Project with Basic React
+This project is an e-commerce application built using React and Vite. It leverages modern web development tools to provide a fast and efficient user experience.
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
